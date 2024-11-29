@@ -1,5 +1,5 @@
 def binary_search(arr, target):
-    """find the position of the item within the sorted list using binary search"""
+    """find the index of the item within the sorted list using binary search"""
     # Initialize the low and high pointers
     low = 0                     
     high = len(arr) - 1          
